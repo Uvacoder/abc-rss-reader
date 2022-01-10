@@ -4,7 +4,6 @@
     "https://css-tricks.com/author/stephanieeckles/feed/",
     "https://moderncss.dev/feed/",
     "https://smolcss.dev/feed/",
-    "https://css-irl.info/rss.xml",
     "https://piccalil.li/feed.xml",
     "https://www.sarasoueidan.com/blog/index.xml",
     "https://stephaniewalter.design/feed/",
@@ -16,6 +15,9 @@
     "https://savvasstephanides.hashnode.dev/rss.xml",
     "https://darekkay.com/atom.xml",
     "https://kevq.uk/feed.xml",
-    "https://wattenberger.com/rss"
+    "https://wattenberger.com/rss",
+    "https://nicolas-hoizey.com/feeds/all.xml",
+    "https://alistapart.com/main/feed",
+    "https://www.taniarascia.com/rss.xml"
   ]
 }
