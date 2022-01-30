@@ -12,7 +12,7 @@ on:
     # Adjust refresh schedule here. By default, it runs once per day.
     # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
     # Recommended tool: https://crontab.guru/
-    - cron: "0 8 * * *"
+    - cron: "0 9 * * *"
 
 jobs:
   build:
@@ -32,4 +32,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: index.html
