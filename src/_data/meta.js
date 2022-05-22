@@ -1,3 +1,3 @@
 module.exports = {
-  "siteTitle": "devHub RSS feeds"
+  "siteTitle": "abc devHub"
 }
