@@ -1,1 +1,7 @@
-https://www.lekoarts.de/rss.xml
+{
+  "category": "Blogs",
+  "items": [
+    "https://wweb.dev/rss.xml",
+    "https://www.lekoarts.de/rss.xml"
+  ]
+}
